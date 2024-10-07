@@ -1,0 +1,8 @@
+body{
+    background-image: url(Images/background.png); 
+    background-size: cover; 
+    background-attachment: fixed; 
+    color:white; 
+    padding-left:20px; 
+    padding-right:20px;
+}
